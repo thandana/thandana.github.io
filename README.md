@@ -1,2 +1,2 @@
 # thandana.github.io
-My Github Profile
+Welcome to my github profile
